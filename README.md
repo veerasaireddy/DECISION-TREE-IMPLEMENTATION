@@ -31,3 +31,8 @@ The final deliverable for this task is a well-commented Jupyter Notebook titled 
 
 In conclusion, Task 1 provided a comprehensive introduction to decision tree models, from understanding the dataset and training a model, to interpreting its decisions through visualization. It strengthened skills in using Scikit-learn, working with structured datasets, and evaluating machine learning models, while emphasizing the importance of model explainability and interpretability. This foundational task lays the groundwork for more complex machine learning projects in subsequent tasks of the internship.
 
+
+
+*OUTPUT*  :
+
+![Image](https://github.com/user-attachments/assets/23771383-3f2f-4cea-b973-7f0a3cdeaae2)
